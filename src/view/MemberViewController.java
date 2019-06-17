@@ -29,7 +29,7 @@ public class MemberViewController implements Initializable {
 	@FXML	private Button btnExecute;
 	@FXML	private TextArea taExecute;
 	@FXML	private TextField tfExecute;
-	
+	 
 	@FXML	private TextField tfID;
 	@FXML	private PasswordField tfPW;
 	@FXML	private TextField tfName;
